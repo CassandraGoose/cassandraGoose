@@ -8,30 +8,39 @@
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
 ) ![image](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white) ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![image](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![image](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![image](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white) ![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
-
-![image](https://gists-readme.yizack.com/api?user={cassandraGoose})
-
- ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={cassandraGoose}&theme={monokai})
-  
-  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
-<!--   default, 2077, dracula, github, github_dark, gruvbox, monokai, nord_bright, nord_dark, radical, solarized, solarized_dark, tokyonight, vue, zenburn -->
-  
-  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}&theme={theme_name}
-  
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}
-  
-  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassandraGoose&theme=github_dark) 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=cassandraGoose&theme=github_dark)
 </div>
 
-- 🔭 I’m currently working on ...
+---
 
-- 🌱 I’m currently learning ...
+## 🔭 I’m currently working on ...
+  - mainly work stuff
 
-- 📫 How to reach me: ...
+## 🌱 I’m currently learning ...
+  - [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)
 
-- 😄 Pronouns: ...
 
-- 🤔 I'm interested in...
+## 📫 How to reach me: 
+[![alt text][image]][hyperlink]
+
+
+[hyperlink]: https://www.linkedin.com/in/cassandra-rt/
+[image]:
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+(tooltip)
+
+## 😄 Pronouns: 
+  - she/her
+
+## 🤔 I'm interested in...
+  - creative writing
+  - music: clarinet, bass, violin, guitar
+  - digital art
+  - dogs
+  - reading (science fiction & fantasy
+
+---
+
+![image](https://komarev.com/ghpvc/?username=cassandraGoose&style=flat-square&color=dc143c)
 

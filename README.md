@@ -38,7 +38,7 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
   - music: clarinet, bass, violin, guitar
   - digital art
   - dogs
-  - reading (science fiction & fantasy
+  - reading (science fiction & fantasy)
 
 ---
 

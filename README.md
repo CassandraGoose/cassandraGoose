@@ -144,9 +144,6 @@
   <br/>
   <div>
     <picture>
-      <img alt="chart that details contibution history" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassandraGoose&theme=github_dark">
-    </picture>
-    <picture>
       <img alt="chart that shows most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandraGoose&theme=github_dark">
     </picture>
   </div>

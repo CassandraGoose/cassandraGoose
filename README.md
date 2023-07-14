@@ -144,8 +144,7 @@
   <br/>
   <div>
     <picture>
-      <img alt="chart that shows most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandraGoose&theme=github_dark">
-      <img alt="chart that shows most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandraGoose&layout=donut&theme=neon" />
+      <img alt="chart that shows most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassandraGoose&layout=donut&theme=transparent" />
     </picture>
   </div>
 </div>

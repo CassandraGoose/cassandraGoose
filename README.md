@@ -155,7 +155,8 @@
 ---
 
 ## 🔭 I’m currently working on ...
-  - mainly work stuff
+  - [an LMS for individuals](https://github.com/CassandraGoose/track-learning-system)
+  - [a CSS / Tailwind project based on Dominos Pizza and Welcome to Night Vale](https://github.com/CassandraGoose/big-ricos-pizza)
 
 ## 🌱 I’m currently learning ...
   - React Performance on Front End Masters

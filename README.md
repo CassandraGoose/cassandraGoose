@@ -158,8 +158,8 @@
   - mainly work stuff
 
 ## 🌱 I’m currently learning ...
-  - [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)
-
+  - React Performance on Front End Masters
+  - Pre-calculus on Sophia.com
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

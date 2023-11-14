@@ -40,9 +40,6 @@
     <img alt="d3 badge" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white">
   </picture>
   <picture>
-    <img alt="Docker badge" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  </picture>
-  <picture>
     <img alt="eslint badge" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   </picture>
   <picture>

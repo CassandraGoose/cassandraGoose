@@ -204,6 +204,9 @@
     <img alt="jQuery badge" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
   </picture>
   <picture>
+    <img alt="python badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </picture>
+  <picture>
     <img alt="rollup badge" src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white">
   </picture>
   

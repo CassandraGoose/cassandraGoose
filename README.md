@@ -7,7 +7,7 @@
   <br/>
   <br/>
 
-  <h2>FE Technology</h2>
+  <h2>Front End Technology</h2>
   <br/>
   <br/>
   <picture>
@@ -79,7 +79,7 @@
 
   <br/>
   <br/>
-  <h2>Backend Technologies</h2>
+  <h2>Back End Technologies</h2>
   <br/>
   <br/>
 

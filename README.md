@@ -228,10 +228,9 @@
 
 ## 🔭 I’m currently working on ...
   - [an LMS for individuals](https://github.com/CassandraGoose/track-learning-system)
-  - [a CSS / Tailwind project based on Dominos Pizza and Welcome to Night Vale](https://github.com/CassandraGoose/big-ricos-pizza)
 
 ## 🌱 I’m currently learning ...
-  - Godot!
+  - 2D Game Development
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

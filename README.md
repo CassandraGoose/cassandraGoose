@@ -230,7 +230,7 @@
   - [an LMS for individuals](https://github.com/CassandraGoose/track-learning-system)
 
 ## 🌱 I’m currently learning ...
-  - 2D Game Development
+  - 2D Game Development with Unity and C#
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

@@ -192,6 +192,9 @@
   <br/>
   <br/>
   <picture>
+    <img alt="C# language badge" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </picture>
+  <picture>
     <img alt="C language badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </picture>
   <picture>

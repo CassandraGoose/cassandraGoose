@@ -44,6 +44,9 @@
     <img alt="material UI badge" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   </picture>
   <picture>
+    <img alt="MUI Badge" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+  </picture>
+  <picture>
     <img alt="React badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </picture>
   <picture>
@@ -131,6 +134,12 @@
   <picture>
     <img alt="Prettier badge" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   </picture>
+  <picture>
+    <img alt="Sentry Badge" src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white">
+  </picture>
+  <picture>
+    <img alt="Zod Badge" src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
+  </picture>
 
   <br/>
   <br/>
@@ -183,6 +192,15 @@
   </picture>
   <picture>
     <img alt="mocha badge" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
+  </picture>
+    <picture>
+    <img alt="Playwright Badge" src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+  </picture>
+  <picture>
+    <img alt="Testing Library Badge" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+  </picture>
+  <picture>
+    <img alt="Vitest Badge" src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B">
   </picture>
 
   

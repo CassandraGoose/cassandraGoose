@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/14pIhci.png 'chibi illustration of me')
   <br/>
   <br/>
-  <h1>Hi! I'm <a href="https://www.cassandracodesthings.online/" target="_blank" rel="noopener noreferrer">Cassandra</a> 👋 </h1>
+  <h1>Hi! I'm Cassandra 👋 </h1>
   <br/>
   <br/>
 

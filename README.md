@@ -248,10 +248,9 @@
 ---
 
 ## 🔭 I’m currently working on ...
-  - [an LMS for individuals](https://github.com/CassandraGoose/track-learning-system)
+  - Nothing, I'm on hiatus.
 
 ## 🌱 I’m currently learning ...
-  - 2D Game Development with Unity and C#
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

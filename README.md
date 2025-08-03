@@ -248,9 +248,10 @@
 ---
 
 ## 🔭 I’m currently working on ...
-  - Nothing, I'm on hiatus.
+  - Exploring new web roles and developer relations roles!
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...  
+  - interviewing skills (well, relearning again!)
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

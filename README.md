@@ -1,9 +1,9 @@
 <div align="center">
   
-![image](https://i.imgur.com/14pIhci.png 'chibi illustration of me')
+![image](https://i.imgur.com/bvvZ6rI.png 'black and white grid banner which reads front end / full stack / web / community')
   <br/>
   <br/>
-  <h1>Hi! I'm Cassandra 👋 </h1>
+  <h1>Hi! I'm Cass 👋 </h1>
   <br/>
   <br/>
 

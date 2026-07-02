@@ -1,6 +1,6 @@
 <div align="center">
   
-![image](https://i.imgur.com/bvvZ6rI.png 'black and white grid banner which reads front end / full stack / web / community')
+![image](https://i.imgur.com/mChX3HS.png 'black and white grid banner which reads Cass - application security / software development / web')
   <br/>
   <br/>
   <h1>Hi! I'm Cass 👋 </h1>

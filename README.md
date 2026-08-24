@@ -6,18 +6,19 @@
   <br/>
   <br/>
 </div>
----
 
 ## 💪🏻 I've got experience with...
 
 * Building for the web with...
   * JavaScript/TypeScript, Java, Node.js, Spring, Express, Hono, React, Angular, Vue, HTML, CSS/SCSS...
   *  and an uncountable number of libraries and tools.
-* Python, C, and C#
+* JS/TS, Java, Python, C, and C#
 * SAST & DAST
 * Secure Software Development
 * Web Exploitation (Certified Web Exploitation Specialist)
+* AWS Cloud Practitioner
 * General Security Practices (Comptia Security+ Certified)
+* ITIL 4 Certified
 
 ## 🔭 I’m currently working on ...
 

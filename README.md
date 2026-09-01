@@ -7,6 +7,10 @@
   <br/>
 </div>
 
+Learn more about me [here](https://casscodes.vercel.app/)
+
+---
+
 ## 💪🏻 I've got experience with...
 
 * Building for the web with...
@@ -15,18 +19,15 @@
 * JS/TS, Java, Python, C, and C#
 * SAST & DAST
 * Secure Software Development
-* Web Exploitation (Certified Web Exploitation Specialist)
 * AWS Cloud Practitioner
 * General Security Practices (Comptia Security+ Certified)
 * ITIL 4 Certified
 
+--- 
+
 ## 🔭 I’m currently working on ...
 
   * Personal Projects with a focus on security and finding a new role in application security.
-
-## 🌱 I’m currently learning ...  
-
-  * creative writing
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

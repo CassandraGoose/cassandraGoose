@@ -27,7 +27,7 @@ Learn more about me [here](https://casscodes.vercel.app/)
 
 ## 🔭 I’m currently working on ...
 
-  * Personal Projects with a focus on security and finding a new role in application security.
+  * Personal Projects with a focus on security. I find it super interesting!
 
 ## 📫 How to reach me: 
 [![alt text][image]][hyperlink]

@@ -9,6 +9,8 @@
 
 Learn more about me [here](https://casscodes.vercel.app/)
 
+I'm the developer for all projects for [Sweet Pig Studio ltd.](https://github.com/Sweet-Pig-Studio/)
+
 ---
 
 ## 💪🏻 I've got experience with...
